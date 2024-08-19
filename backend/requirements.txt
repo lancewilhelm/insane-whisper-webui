@@ -1,0 +1,4 @@
+insanely-fast-whisper
+flask
+flask-cors
+python-dotenv
